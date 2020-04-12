@@ -1,0 +1,8 @@
+border:
+  # Block ID used to generate the border
+  material: 155
+  meta: 1
+path:
+  # Block ID used to generate the path
+  material: 155
+  meta: 3
